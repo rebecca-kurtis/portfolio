@@ -1,6 +1,6 @@
-# Cover Letter App
+# Portfolio App
 
-Normal cover letters tend to be a bit boring so I created a cover letter site that also functions as my portfolio and will be customized for each company! This has been deployed with Vercel - You can view it [here](https://cover-letter-app-sigma.vercel.app/)!
+I created a standard portfolio site to showcase some of my skills and recent projects! This has been deployed with Vercel - You can view it [here](https://portfolio-rebecca-kurtis.vercel.app/)!
 
 Front End Stack: HTML, CSS, NextJS, React, TypeScript
 
