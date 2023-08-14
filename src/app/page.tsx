@@ -57,7 +57,6 @@ export default function Home() {
       <WelcomeHeader></WelcomeHeader>
       <About></About>
       <Projects></Projects>
-      <WhyCompany></WhyCompany>
       <WhyMe></WhyMe>
       <Skills></Skills>
       <Footer></Footer>

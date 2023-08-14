@@ -10,7 +10,7 @@ export const WhyMe: React.FC<WhyMeProps> = ({}) => {
       <div className="whyMeHeader">
         <div className="whyMeHeaderColourBlock" />
         <div className="whyMeHeaderTextBlock">
-          Why should the Company hire me?
+          Some of My Strengths:
         </div>
       </div>
       <div className="whyMeSpacer" />
