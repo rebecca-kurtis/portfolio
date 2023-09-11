@@ -30,6 +30,7 @@ export const NavLinks: React.FC<NavLinksProps> = ({}) => {
 {!showHamburger && 
         <nav>
         <Link className="navLink" href={'#about'}>About</Link>
+        <Link className="navLink" href={'#activities'}>Activities</Link>
         <Link className="navLink" href={'#projects'}>Projects</Link>
         <Link className="navLink" href={'#why-me'}>Strengths</Link>
         <Link className="navLink" href={'#skills'}>Skills</Link>

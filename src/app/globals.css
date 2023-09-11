@@ -349,6 +349,58 @@ a {
   }
 }
 
+/* Activities Component  */
+
+.activitiesContainer {
+  display: flex;
+  height: -webkit-fit-content;
+  height: -moz-fit-content;
+  height: fit-content;
+  color: #fff;
+  flex-direction: column;
+  height: fit-content;
+  background-color: #0e3e30;
+  padding: 20px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.activitiesTitle {
+  font-family: "Shrikhand", cursive;
+  text-align: center;
+  letter-spacing: 1.3px;
+  font-size: 45px;
+  color: #fff;
+}
+
+.activitiesContainerSpacer {
+  width: 25px;
+  height: 25px;
+}
+
+.activitiesPointsContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 20px;
+}
+
+.btn.btn-primary {
+  text-decoration: none;
+  padding: 10px;
+  color: #052622;
+  box-shadow: 4px 4px #0e3e30;
+  border-radius: 6px;
+  border-color: #0e3e30;
+  background-color: #c3c3ae;
+}
+
+@media only screen and (max-width: 869px) {
+  .activitiesPointsContainer {
+    flex-direction: column;
+  }
+}
+
 /* Projects Component */
 .projectsContainer {
   display: flex;

@@ -10,6 +10,8 @@ import { Footer } from "../../components/Footer";
 import { WhyCompany } from "../../components/WhyCompany";
 import { WhyMe } from "../../components/WhyMe";
 import { Skills } from "../../components/Skills";
+import { Activities } from "../../components/Activities";
+
 
 export default function Home() {
   return (
@@ -56,6 +58,7 @@ export default function Home() {
       <Header></Header>
       <WelcomeHeader></WelcomeHeader>
       <About></About>
+      <Activities></Activities>
       <Projects></Projects>
       <WhyMe></WhyMe>
       <Skills></Skills>

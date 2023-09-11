@@ -33,6 +33,7 @@ export default function OffCanvasExample({...props }) {
           <div className="offcanvasMenuList">
     
               <Link className="navLinkCanvas" href={'#about'}>About</Link>
+              <Link className="navLink" href={'#activities'}>Activities</Link>
               <Link className="navLinkCanvas" href={'#projects'}>Projects</Link>
               <Link className="navLinkCanvas" href={'#why-me'}>Strengths</Link>
               <Link className="navLinkCanvas" href={'#skills'}>Skills</Link>
